@@ -169,4 +169,5 @@ library2.add(track: "Come As You Are")
 
 After this code runs, what are the contents of `library1.tracks`? What about the contents of `library2.tracks`? Why?
 
+
 <a href='https://learn.co/lessons/ClassesVsStructs' data-visibility='hidden'>View this lesson on Learn.co</a>
